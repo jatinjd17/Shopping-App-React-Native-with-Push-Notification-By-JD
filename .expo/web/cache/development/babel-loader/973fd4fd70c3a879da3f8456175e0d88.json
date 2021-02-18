@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as LinearGradient } from \"./LinearGradient\";","map":{"version":3,"sources":["../src/index.ts"],"names":[],"mappings":"AAAA,SACE,OAAO,IAAI,cADb","sourcesContent":["export {\n  default as LinearGradient,\n  LinearGradientProps,\n  LinearGradienPoint,\n} from './LinearGradient';\n"],"sourceRoot":""},"metadata":{},"sourceType":"module"}
